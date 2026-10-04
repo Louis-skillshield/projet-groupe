@@ -9,6 +9,12 @@ Projet noté, à réaliser en groupe et entièrement en SQL (PostgreSQL).
 
 ## Démarrage
 
+0. Récupérez les fichiers :
+
+```bash
+git clone https://github.com/Louis-skillshield/projet-groupe.git
+```
+
 1. Lisez le sujet en entier avant de commencer.
 2. Créez **votre propre dépôt GitHub de groupe** (structure attendue décrite dans le sujet)
    et copiez-y `seed_ecommerce.sql`.
